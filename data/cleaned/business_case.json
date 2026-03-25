@@ -1,0 +1,26 @@
+{
+  "total_employees": 1470,
+  "total_attrition": 237,
+  "attrition_rate": 16.1,
+  "total_cost": 9247168,
+  "cost_per_hire": 39018,
+  "high_risk_employees": 839,
+  "overdue_promotions": 373,
+  "top_roles": [
+    {
+      "role": "Sales Representative",
+      "attrition_rate": 39.8,
+      "cost": 1287580
+    },
+    {
+      "role": "Laboratory Technician",
+      "attrition_rate": 23.9,
+      "cost": 2419090
+    },
+    {
+      "role": "Human Resources",
+      "attrition_rate": 23.1,
+      "cost": 468211
+    }
+  ]
+}
