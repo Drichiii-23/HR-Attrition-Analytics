@@ -214,7 +214,19 @@ This dataset was used to simulate:
 
 ## 📸 Visual Walkthrough
 
-### 1. The Cost of Turnover – KPI Overview
+### 1. Executive Dashboard Overview
+
+![Full Dashboard](images/Dashboard_PowerBI.png)
+
+The complete HR Attrition Dashboard provides an at-a-glance view of organizational health. Key components include:
+
+- **Top KPI Cards:** 1,470 employees, 237 attrition, 16.1% rate, $9.2M annual cost
+- **Attrition by Education & Department:** Donut charts showing distribution
+- **Job Role vs Satisfaction Matrix:** Heatmap identifying highest-risk roles
+- **Salary & Tenure Analysis:** Bar charts revealing compensation and tenure patterns
+- **Interactive Slicers:** Department, Job Role, Age Group, and Gender filters for deep dive exploration
+
+### 2. The Cost of Turnover – KPI Overview
 
 ![KPI Cards](images/KPI_Cards.png)
 
@@ -222,7 +234,7 @@ The organization loses **237 employees annually** at a **16.1% attrition rate**,
 
 ---
 
-### 2. Job Role vs Satisfaction Matrix – Where the Problem Concentrates
+### 3. Job Role vs Satisfaction Matrix – Where the Problem Concentrates
 
 ![Job Role Matrix](images/Matrix_Heatmap.png)
 
@@ -230,7 +242,7 @@ Laboratory Technicians (62), Sales Executives (57), and Research Scientists (47)
 
 ---
 
-### 3. Salary Impact – The Compensation Gap
+### 4. Salary Impact – The Compensation Gap
 
 ![Salary Impact](images/Salary_Impact.png)
 
@@ -239,7 +251,7 @@ Laboratory Technicians (62), Sales Executives (57), and Research Scientists (47)
 ---
 
 
-### 4. Department & Travel – Where to Intervene
+### 5. Department & Travel – Where to Intervene
 
 ![Department and Travel](images/AttritionbyDept.png)
 ![Department and Travel](images/AttritionbyBusinessTravel.png)
@@ -248,13 +260,18 @@ The **Sales department drives 57% of total attrition**, followed by R&D. Frequen
 
 ---
 
-### 5. Age & Gender – Demographic Patterns
+### 6. Age & Gender – Demographic Patterns
 
 ![Age Group Analysis](images/AttritionbyAgeGroup&Gender.png)
 
 The **26–35 age group accounts for the most leavers**, with males slightly outnumbering females. Targeted retention programs for early-career employees could yield the highest impact.
 
 ---
+## 📊 Interactive Dashboard
+
+[Download the Power BI Dashboard File](dashboard/HR_Attrition_Dashboard.pbix)
+
+
 
 
 ## Insights
