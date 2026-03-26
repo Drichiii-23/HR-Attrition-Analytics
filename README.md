@@ -26,7 +26,7 @@ Using **Python, SQL, and Power BI**, this project analyzes 1,470 employees to id
 
 ### Current State
 
-Today, we deploy significant resources across our workforce — recruitment, training, and development — yet we have **no integrated mechanism — effectively 0% structured monitoring** — to systematically measure whether we are retaining talent effectively and addressing the root causes of attrition.
+Today, we deploy significant resources across our workforce recruitment, training, and development, yet we have **no integrated mechanism effectively 0% structured monitoring** to systematically measure whether we are retaining talent effectively and addressing the root causes of attrition.
 
 We currently track basic exit data, but we do not consistently measure:
 
@@ -46,7 +46,7 @@ If even **5–10% of our workforce leaves unexpectedly**, the impact directly tr
 
 Additionally, if projected retention targets are missed by even **10–20%**, the assumed operational stability embedded in our workforce planning becomes unreliable.
 
-In short, we are managing **exit documentation** — not **retention strategy**, thus the need from **0% structured monitoring** to **a 100%, fully-structured retention governance mechanism**.
+In short, we are managing **exit documentation**, not **retention strategy**, thus the need from **0% structured monitoring** to **a 100%, fully-structured retention governance mechanism**.
 
 ---
 
@@ -194,7 +194,7 @@ This dataset was used to simulate:
    - Attrition Rate (16.1%)
    - Average Age (37)
    - Average Salary (6.5K)
-   - Average Tenure (7.0 years)
+     
 
 3. **Attrition by Department** – Designed donut charts showing distribution across Sales, R&D, and HR.
 
