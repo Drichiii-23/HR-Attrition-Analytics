@@ -24,31 +24,8 @@ Using **Python, SQL, and Power BI**, this project analyzes 1,470 employees to id
 
 ## Problem Statement
 
-### Current State
+The organization is currently facing a **16.1% attrition rate**, losing **237 employees** annually at a cost of**$9.2M**. The goal is to reduce attrition to **10%** , lowering annual cost to **$5.7M** and cutting high-risk employees from **57%** to **30%** of the workforce. This analysis diagnoses whether departures are driven by compensation gaps, overtime burden, or promotion delays and identifies which roles and departments are most at risk to move from **0% structured retention monitoring** to a **data-driven governance mechanism** that tracks attrition drivers, identifies at-risk employees early, and measures the ROI of retention interventions.
 
-Today, we deploy significant resources across our workforce recruitment, training, and development, yet we have **no integrated mechanism effectively 0% structured monitoring** to systematically measure whether we are retaining talent effectively and addressing the root causes of attrition.
-
-We currently track basic exit data, but we do not consistently measure:
-
-- **Which departments and roles** are driving attrition
-- **Why employees leave** (salary gaps, overtime burden, promotion delays, satisfaction issues)
-- **The true cost** of employee turnover
-- **Early warning signs** before attrition becomes critical
-- **The ROI of retention efforts**
-
-If even **5–10% of our workforce leaves unexpectedly**, the impact directly translates into:
-
-- **Diluted team performance** — loss of institutional knowledge and productivity
-- **Increased recruitment costs** — 50-100% of annual salary per replacement
-- **Pressure on cost-to-income ratio** — training costs for new hires
-- **Weakened organizational stability** — burnout risk for remaining employees
-- **Loss of client relationships** — disruption in service delivery
-
-Additionally, if projected retention targets are missed by even **10–20%**, the assumed operational stability embedded in our workforce planning becomes unreliable.
-
-In short, we are managing **exit documentation**, not **retention strategy**, thus the need from **0% structured monitoring** to **a 100%, fully-structured retention governance mechanism**.
-
----
 
 ### Current State vs Ideal State
 
@@ -91,21 +68,6 @@ This translates to:
 
 ---
 
-### What We Need to Solve
-
-**The Core Question:**
-
-> *How can we reduce employee attrition from 16.1% to 10%, saving $3.5M annually, by identifying and addressing the key drivers of turnover across departments, roles, and employee segments?*
-
-**Key Sub-Questions:**
-
-1. **Where** is attrition happening? (Which departments, roles, age groups?)
-2. **Why** are employees leaving? (Salary, overtime, promotion delays, satisfaction?)
-3. **Who** is most at risk? (Demographic patterns, high-risk flags)
-4. **When** do employees leave? (Tenure patterns, early vs late turnover)
-5. **What** interventions will yield the highest ROI?
-
----
 
 ## Data
 
